@@ -1,0 +1,523 @@
+07:56:28 PM: DEBUG [Conexion.py:24] Conexión exitosa: <connection object at 0x000001DD7EF22790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:56:28 PM: DEBUG [Conexion.py:36] Se abrió correctamente el cursor <cursor object at 0x000001DD7FC41380; closed: 0>
+07:56:29 PM: DEBUG [PersonaDao.py:42] 
+    Id Persona: 1, Nombre: Daniela Apellido: Aranda Email: None
+        
+07:56:29 PM: DEBUG [PersonaDao.py:42] 
+    Id Persona: 4, Nombre: Jesus Apellido: Melgar Email: None
+        
+07:56:29 PM: DEBUG [PersonaDao.py:42] 
+    Id Persona: 5, Nombre: Luis Apellido: Córdova Email: None
+        
+07:56:29 PM: DEBUG [PersonaDao.py:42] 
+    Id Persona: 10, Nombre: Maria Apellido: Melgar Email: None
+        
+07:56:29 PM: DEBUG [PersonaDao.py:42] 
+    Id Persona: 11, Nombre: Rafaela Apellido: Aranda Email: None
+        
+07:56:29 PM: DEBUG [PersonaDao.py:42] 
+    Id Persona: 12, Nombre: Mono Apellido: Aranda Email: None
+        
+07:56:47 PM: DEBUG [Conexion.py:24] Conexión exitosa: <connection object at 0x00000206F2932790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:56:47 PM: DEBUG [Conexion.py:36] Se abrió correctamente el cursor <cursor object at 0x00000206F4E71380; closed: 0>
+07:56:47 PM: DEBUG [PersonaDao.py:42] 
+    Id Persona: 1, Nombre: Daniela Apellido: Aranda Email: gordita@gmail.com
+        
+07:56:47 PM: DEBUG [PersonaDao.py:42] 
+    Id Persona: 4, Nombre: Jesus Apellido: Melgar Email: jecho26@gmail.com
+        
+07:56:47 PM: DEBUG [PersonaDao.py:42] 
+    Id Persona: 5, Nombre: Luis Apellido: Córdova Email: astete@gmail.com
+        
+07:56:47 PM: DEBUG [PersonaDao.py:42] 
+    Id Persona: 10, Nombre: Maria Apellido: Melgar Email: mama@gmail.com
+        
+07:56:47 PM: DEBUG [PersonaDao.py:42] 
+    Id Persona: 11, Nombre: Rafaela Apellido: Aranda Email: rafita@gmail.com
+        
+07:56:47 PM: DEBUG [PersonaDao.py:42] 
+    Id Persona: 12, Nombre: Mono Apellido: Aranda Email: mono77@gmail.com
+        
+07:59:15 PM: DEBUG [Conexion.py:24] Conexión exitosa: <connection object at 0x00000207556C2790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:59:15 PM: DEBUG [Conexion.py:36] Se abrió correctamente el cursor <cursor object at 0x0000020757C01380; closed: 0>
+07:59:22 PM: DEBUG [Conexion.py:24] Conexión exitosa: <connection object at 0x00000183EACF2790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:59:22 PM: DEBUG [Conexion.py:36] Se abrió correctamente el cursor <cursor object at 0x00000183ECE31380; closed: 0>
+07:59:22 PM: DEBUG [PersonaDao.py:42] 
+    Id Persona: 1, Nombre: Daniela Apellido: Aranda Email: gordita@gmail.com
+        
+07:59:22 PM: DEBUG [PersonaDao.py:42] 
+    Id Persona: 4, Nombre: Jesus Apellido: Melgar Email: jecho26@gmail.com
+        
+07:59:22 PM: DEBUG [PersonaDao.py:42] 
+    Id Persona: 5, Nombre: Luis Apellido: Córdova Email: astete@gmail.com
+        
+07:59:22 PM: DEBUG [PersonaDao.py:42] 
+    Id Persona: 10, Nombre: Maria Apellido: Melgar Email: mama@gmail.com
+        
+07:59:22 PM: DEBUG [PersonaDao.py:42] 
+    Id Persona: 11, Nombre: Rafaela Apellido: Aranda Email: rafita@gmail.com
+        
+07:59:22 PM: DEBUG [PersonaDao.py:42] 
+    Id Persona: 12, Nombre: Mono Apellido: Aranda Email: mono77@gmail.com
+        
+08:02:29 PM: DEBUG [Conexion.py:24] Conexión exitosa: <connection object at 0x000001FB93592790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+08:02:29 PM: DEBUG [Conexion.py:36] Se abrió correctamente el cursor <cursor object at 0x000001FB95A61380; closed: 0>
+08:02:29 PM: DEBUG [PersonaDao.py:35] Persona a insertar: 
+    Id Persona: None, Nombre: Carlos Apellido: Aranda Email: carlosaranda030801@gmail.com
+        
+08:27:07 PM: DEBUG [Conexion.py:24] Conexión exitosa: <connection object at 0x00000259C7C02790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+08:27:07 PM: DEBUG [Conexion.py:36] Se abrió correctamente el cursor <cursor object at 0x00000259CA0E1380; closed: 0>
+08:27:07 PM: DEBUG [PersonaDao.py:34] Persona a insertar: 
+    Id Persona: None, Nombre: Carlos Apellido: Aranda Email: carlosaranda030801@gmail.com
+        
+08:28:54 PM: DEBUG [Conexion.py:24] Conexión exitosa: <connection object at 0x0000020FD0DE2790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+08:28:54 PM: DEBUG [Conexion.py:36] Se abrió correctamente el cursor <cursor object at 0x0000020FD3281380; closed: 0>
+08:28:54 PM: DEBUG [PersonaDao.py:46] 
+    Id Persona: 1, Nombre: Daniela Apellido: Aranda Email: gordita@gmail.com
+        
+08:28:54 PM: DEBUG [PersonaDao.py:46] 
+    Id Persona: 4, Nombre: Jesus Apellido: Melgar Email: jecho26@gmail.com
+        
+08:28:54 PM: DEBUG [PersonaDao.py:46] 
+    Id Persona: 5, Nombre: Luis Apellido: Córdova Email: astete@gmail.com
+        
+08:28:54 PM: DEBUG [PersonaDao.py:46] 
+    Id Persona: 10, Nombre: Maria Apellido: Melgar Email: mama@gmail.com
+        
+08:28:54 PM: DEBUG [PersonaDao.py:46] 
+    Id Persona: 11, Nombre: Rafaela Apellido: Aranda Email: rafita@gmail.com
+        
+08:28:54 PM: DEBUG [PersonaDao.py:46] 
+    Id Persona: 12, Nombre: Mono Apellido: Aranda Email: mono77@gmail.com
+        
+08:33:03 PM: DEBUG [Conexion.py:24] Conexión exitosa: <connection object at 0x000002BFE1702790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+08:33:03 PM: DEBUG [Conexion.py:36] Se abrió correctamente el cursor <cursor object at 0x000002BFE3BE1380; closed: 0>
+08:33:03 PM: DEBUG [PersonaDao.py:34] Persona a insertar: 
+    Id Persona: None, Nombre: Carlos Apellido: Aranda Email: carlosaranda030801@gmail.com
+        
+08:39:53 PM: DEBUG [Conexion.py:24] Conexión exitosa: <connection object at 0x000002BA7BC42790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+08:39:53 PM: DEBUG [Conexion.py:36] Se abrió correctamente el cursor <cursor object at 0x000002BA7E121380; closed: 0>
+08:39:53 PM: DEBUG [PersonaDao.py:34] Persona a insertar: 
+    Id Persona: None, Nombre: Carlos Apellido: Aranda Email: carlosaranda030801@gmail.com
+        
+08:39:53 PM: DEBUG [PersonaDao.py:43] 1
+08:43:56 PM: DEBUG [Conexion.py:24] Conexión exitosa: <connection object at 0x00000154FDAA2790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+08:44:52 PM: DEBUG [Conexion.py:24] Conexión exitosa: <connection object at 0x000002C29FD12790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+08:44:52 PM: DEBUG [Conexion.py:36] Se abrió correctamente el cursor <cursor object at 0x000002C2A21F1380; closed: 0>
+08:44:52 PM: DEBUG [PersonaDao.py:35] Persona a insertar: 
+    Id Persona: None, Nombre: Carlos Apellido: Aranda Email: carlosaranda030801@gmail.com
+        
+08:44:52 PM: DEBUG [PersonaDao.py:44] 1
+08:47:35 PM: DEBUG [Conexion.py:24] Conexión exitosa: <connection object at 0x0000024F87462790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+08:47:35 PM: DEBUG [Conexion.py:36] Se abrió correctamente el cursor <cursor object at 0x0000024F89921380; closed: 0>
+08:47:35 PM: DEBUG [PersonaDao.py:36] Persona a insertar: 
+    Id Persona: None, Nombre: Carlos Apellido: Aranda Email: carlosaranda030801@gmail.com
+        
+08:47:35 PM: DEBUG [PersonaDao.py:45] 1
+08:48:57 PM: DEBUG [Conexion.py:24] Conexión exitosa: <connection object at 0x00000229B69B2790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+08:48:57 PM: DEBUG [Conexion.py:36] Se abrió correctamente el cursor <cursor object at 0x00000229B8B51380; closed: 0>
+08:48:57 PM: DEBUG [PersonaDao.py:36] Persona a insertar: 
+    Id Persona: None, Nombre: Carlos Apellido: Aranda Email: carlosaranda030801@gmail.com
+        
+08:48:57 PM: DEBUG [PersonaDao.py:45] 1
+08:51:54 PM: DEBUG [Conexion.py:24] Conexión exitosa: <connection object at 0x0000016E20762790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+08:51:54 PM: DEBUG [Conexion.py:36] Se abrió correctamente el cursor <cursor object at 0x0000016E22891460; closed: 0>
+08:51:54 PM: DEBUG [PersonaDao.py:36] Persona a insertar: 
+    Id Persona: None, Nombre: Carlos Apellido: Aranda Email: carlosaranda030801@gmail.com
+        
+08:51:54 PM: DEBUG [PersonaDao.py:45] 1
+08:57:12 PM: DEBUG [Conexion.py:24] Conexión exitosa: <connection object at 0x0000015E9FC92790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+08:57:12 PM: DEBUG [Conexion.py:36] Se abrió correctamente el cursor <cursor object at 0x0000015EA21F1380; closed: 0>
+08:57:12 PM: DEBUG [PersonaDao.py:34] Persona a insertar: 
+    Id Persona: None, Nombre: Carlos Apellido: Aranda Email: carlosaranda030801@gmail.com
+        
+08:57:12 PM: DEBUG [PersonaDao.py:43] 1
+08:58:09 PM: DEBUG [Conexion.py:24] Conexión exitosa: <connection object at 0x000001E2F68F2790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+08:58:09 PM: DEBUG [Conexion.py:36] Se abrió correctamente el cursor <cursor object at 0x000001E2F8E61380; closed: 0>
+08:58:09 PM: DEBUG [PersonaDao.py:35] Persona a insertar: 
+    Id Persona: None, Nombre: Carlos Apellido: Aranda Email: carlosaranda030801@gmail.com
+        
+08:58:09 PM: DEBUG [PersonaDao.py:44] 1
+09:06:35 PM: DEBUG [Conexion.py:24] Conexión exitosa: <connection object at 0x0000029476F52790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:06:35 PM: DEBUG [Conexion.py:36] Se abrió correctamente el cursor <cursor object at 0x0000029479441380; closed: 0>
+09:06:35 PM: DEBUG [PersonaDao.py:35] Persona a insertar: 
+    Id Persona: None, Nombre: Carlos Apellido: Aranda Email: carlosaranda030801@gmail.com
+        
+09:06:35 PM: DEBUG [PersonaDao.py:44] 1
+09:08:45 PM: DEBUG [Conexion.py:24] Conexión exitosa: <connection object at 0x0000025B3FF42790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:08:45 PM: DEBUG [Conexion.py:36] Se abrió correctamente el cursor <cursor object at 0x0000025B423D1460; closed: 0>
+09:08:45 PM: DEBUG [PersonaDao.py:36] Persona a insertar: 
+    Id Persona: None, Nombre: Carlos Apellido: Aranda Email: carlosaranda030801@gmail.com
+        
+09:08:45 PM: DEBUG [PersonaDao.py:45] 1
+09:09:38 PM: DEBUG [Conexion.py:24] Conexión exitosa: <connection object at 0x0000023F77C02790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:09:38 PM: DEBUG [Conexion.py:36] Se abrió correctamente el cursor <cursor object at 0x0000023F7A141380; closed: 0>
+09:09:38 PM: DEBUG [PersonaDao.py:34] Persona a insertar: 
+    Id Persona: None, Nombre: Carlos Apellido: Aranda Email: carlosaranda030801@gmail.com
+        
+09:09:38 PM: DEBUG [PersonaDao.py:43] 1
+09:09:51 PM: DEBUG [Conexion.py:24] Conexión exitosa: <connection object at 0x0000020A4BFA2790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:09:51 PM: DEBUG [Conexion.py:36] Se abrió correctamente el cursor <cursor object at 0x0000020A4E0D1380; closed: 0>
+09:09:51 PM: DEBUG [PersonaDao.py:34] Persona a insertar: 
+    Id Persona: None, Nombre: Carlos Apellido: Aranda Email: carlosaranda030801@gmail.com
+        
+09:09:51 PM: DEBUG [PersonaDao.py:43] 1
+09:10:14 PM: DEBUG [Conexion.py:24] Conexión exitosa: <connection object at 0x0000023E07AC2790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:10:14 PM: DEBUG [Conexion.py:36] Se abrió correctamente el cursor <cursor object at 0x0000023E09BF1380; closed: 0>
+09:10:14 PM: DEBUG [PersonaDao.py:35] Persona a insertar: 
+    Id Persona: None, Nombre: Carlos Apellido: Aranda Email: carlosaranda030801@gmail.com
+        
+09:10:14 PM: DEBUG [PersonaDao.py:44] 1
+09:12:09 PM: DEBUG [Conexion.py:24] Conexión exitosa: <connection object at 0x00000270F7B22790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:12:09 PM: DEBUG [Conexion.py:36] Se abrió correctamente el cursor <cursor object at 0x00000270F9C51380; closed: 0>
+09:12:09 PM: DEBUG [PersonaDao.py:48] 
+    Id Persona: 1, Nombre: Daniela Apellido: Aranda Email: gordita@gmail.com
+        
+09:12:09 PM: DEBUG [PersonaDao.py:48] 
+    Id Persona: 4, Nombre: Jesus Apellido: Melgar Email: jecho26@gmail.com
+        
+09:12:09 PM: DEBUG [PersonaDao.py:48] 
+    Id Persona: 5, Nombre: Luis Apellido: Córdova Email: astete@gmail.com
+        
+09:12:09 PM: DEBUG [PersonaDao.py:48] 
+    Id Persona: 10, Nombre: Maria Apellido: Melgar Email: mama@gmail.com
+        
+09:12:09 PM: DEBUG [PersonaDao.py:48] 
+    Id Persona: 11, Nombre: Rafaela Apellido: Aranda Email: rafita@gmail.com
+        
+09:12:09 PM: DEBUG [PersonaDao.py:48] 
+    Id Persona: 12, Nombre: Mono Apellido: Aranda Email: mono77@gmail.com
+        
+09:12:09 PM: DEBUG [PersonaDao.py:48] 
+    Id Persona: 22, Nombre: Carlos Apellido: Aranda Email: carlosaranda030801@gmail.com
+        
+09:12:09 PM: DEBUG [PersonaDao.py:48] 
+    Id Persona: 23, Nombre: Carlos Apellido: Aranda Email: carlosaranda030801@gmail.com
+        
+09:12:09 PM: DEBUG [PersonaDao.py:48] 
+    Id Persona: 24, Nombre: Carlos Apellido: Aranda Email: carlosaranda030801@gmail.com
+        
+09:12:09 PM: DEBUG [PersonaDao.py:48] 
+    Id Persona: 27, Nombre: Carlos Apellido: Aranda Email: carlosaranda030801@gmail.com
+        
+09:26:08 PM: DEBUG [Conexion.py:24] Conexión exitosa: <connection object at 0x0000019852712790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:26:08 PM: DEBUG [Conexion.py:36] Se abrió correctamente el cursor <cursor object at 0x000001985489D380; closed: 0>
+09:26:08 PM: DEBUG [PersonaDao.py:35] Persona a insertar: 
+    Id Persona: None, Nombre: Carlos Apellido: Aranda Email: carlosaranda030801@gmail.com
+        
+09:26:08 PM: DEBUG [PersonaDao.py:44] 1
+09:26:08 PM: DEBUG [Conexion.py:36] Se abrió correctamente el cursor <cursor object at 0x000001985489D2A0; closed: 0>
+09:26:08 PM: DEBUG [PersonaDao.py:48] 
+    Id Persona: 1, Nombre: Daniela Apellido: Aranda Email: gordita@gmail.com
+        
+09:26:08 PM: DEBUG [PersonaDao.py:48] 
+    Id Persona: 4, Nombre: Jesus Apellido: Melgar Email: jecho26@gmail.com
+        
+09:26:08 PM: DEBUG [PersonaDao.py:48] 
+    Id Persona: 5, Nombre: Luis Apellido: Córdova Email: astete@gmail.com
+        
+09:26:08 PM: DEBUG [PersonaDao.py:48] 
+    Id Persona: 10, Nombre: Maria Apellido: Melgar Email: mama@gmail.com
+        
+09:26:08 PM: DEBUG [PersonaDao.py:48] 
+    Id Persona: 11, Nombre: Rafaela Apellido: Aranda Email: rafita@gmail.com
+        
+09:26:08 PM: DEBUG [PersonaDao.py:48] 
+    Id Persona: 12, Nombre: Mono Apellido: Aranda Email: mono77@gmail.com
+        
+09:26:08 PM: DEBUG [PersonaDao.py:48] 
+    Id Persona: 22, Nombre: Carlos Apellido: Aranda Email: carlosaranda030801@gmail.com
+        
+09:26:08 PM: DEBUG [PersonaDao.py:48] 
+    Id Persona: 23, Nombre: Carlos Apellido: Aranda Email: carlosaranda030801@gmail.com
+        
+09:26:08 PM: DEBUG [PersonaDao.py:48] 
+    Id Persona: 24, Nombre: Carlos Apellido: Aranda Email: carlosaranda030801@gmail.com
+        
+09:26:08 PM: DEBUG [PersonaDao.py:48] 
+    Id Persona: 27, Nombre: Carlos Apellido: Aranda Email: carlosaranda030801@gmail.com
+        
+09:26:08 PM: DEBUG [PersonaDao.py:48] 
+    Id Persona: 28, Nombre: Carlos Apellido: Aranda Email: carlosaranda030801@gmail.com
+        
+05:02:54 PM: DEBUG [conexion.PY:26] Ocurrio una excepcion: could not translate host name "local_host" to address: Unknown host
+
+05:14:41 PM: DEBUG [conexion.PY:26] Ocurrio una excepcion: connection to server at "107.0.0.1", port 5432 failed: Connection timed out (0x0000274C/10060)
+	Is the server running on that host and accepting TCP/IP connections?
+
+05:15:29 PM: DEBUG [conexion.PY:23] Conexion exitosa: <connection object at 0x0000022271782790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+05:16:27 PM: DEBUG [conexion.PY:23] Conexion exitosa: <connection object at 0x0000028983482790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+06:35:38 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x000001E82A532790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+06:43:43 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x0000020098772790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+06:55:15 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x000001E553992790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:08:57 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x0000023B79DB2790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:09:53 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x0000021C5FA12790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:16:19 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x0000023B7FCF2790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:21:40 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x00000224A95C2790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:22:03 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x000002320C1D2790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:25:09 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x00000264AFED2790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:55:25 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x000001C3FD6C2790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:56:20 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x0000026014252790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:56:40 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x0000018CF82D2790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+08:02:29 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x0000028730462790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:27:23 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x000001F4B1982790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:27:47 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x000001F7B7332790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:28:57 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x000002E201DD2790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:29:38 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x00000238D73E2790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:29:43 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x0000028620152790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:30:03 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x000001FD51F52790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:30:28 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x00000176D2167BC0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:30:28 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x00000158DF0DBEF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:30:49 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x00000299B0BC7BC0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:30:58 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x000001FEE2CB7AB0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:32:02 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x0000026316572790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:33:25 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x000002155C092790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:33:49 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x000002AD88532790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:35:38 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x0000022E60492790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:37:16 PM: DEBUG [Loggin_Base.py:12] Mensaje a nivel Debug
+12:37:16 PM: INFO [Loggin_Base.py:13] Mensaje a nivel Info
+12:37:16 PM: WARNING [Loggin_Base.py:14] Mensaje a nivel Warning
+12:37:16 PM: ERROR [Loggin_Base.py:15] Msj a nivel error
+12:37:16 PM: CRITICAL [Loggin_Base.py:16] Msj a nivel crítico
+12:37:18 PM: DEBUG [Loggin_Base.py:12] Mensaje a nivel Debug
+12:37:18 PM: INFO [Loggin_Base.py:13] Mensaje a nivel Info
+12:37:18 PM: WARNING [Loggin_Base.py:14] Mensaje a nivel Warning
+12:37:18 PM: ERROR [Loggin_Base.py:15] Msj a nivel error
+12:37:18 PM: CRITICAL [Loggin_Base.py:16] Msj a nivel crítico
+12:44:38 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x000002634A7A2790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:50:32 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x00000156DA232790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:51:00 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x000001CF6E212790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:51:02 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x000001C285B82790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:56:11 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x000001B44F872790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:56:13 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x00000274A63F2790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:56:47 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x00000187FC672790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:57:46 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x000001A4E0092790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:58:06 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x000001D274052790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:58:09 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x000002741DFF2790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:58:30 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x0000024FEC872790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+12:59:02 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x00000198DD862790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+01:01:25 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x000001AED5A12790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+01:01:44 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x00000229EBB62790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+01:01:54 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x00000232E59E2790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+01:02:09 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x000002306B472790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+01:14:12 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x000001C8567F2790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+01:15:28 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x0000026909852790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+01:17:19 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x0000016B452E2790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+01:18:48 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x00000185D0E52790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+01:20:41 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x0000023A94EB2790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+01:21:21 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x00000265453F2790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+01:22:27 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x0000020471352790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+01:22:39 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x0000025D7CDE2790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+01:23:03 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x000001ED426A2790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+01:23:42 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x00000201BC352790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+01:24:20 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x0000020FD5F82790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+01:24:23 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x000001F3EB2E2790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+01:25:22 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x000002A3014A2790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+01:25:27 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x000001CB4F992790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+01:29:10 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x000001FB5B232790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+01:31:21 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x000001D1F4062790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+01:31:25 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x0000028DC3A02790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+01:32:43 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x000001FDE6A72790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+01:39:03 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x00000271AAE62790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+01:40:59 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x0000020019662790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+02:17:10 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x0000018F48922790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:47:32 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x0000025417172790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:49:34 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x0000028438AB2790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:49:51 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x0000024ECF6B2790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:19:27 PM: DEBUG [conexion.py:23] Conexion exitosa: <connection object at 0x0000020A1CE92790; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+01:29:53 PM: DEBUG [menuApp.py:19] (1, 'Daniela', 'Aranda', 'gordita@gmail.com')
+01:29:53 PM: DEBUG [menuApp.py:19] (4, 'Jesus', 'Melgar', 'jecho26@gmail.com')
+01:29:53 PM: DEBUG [menuApp.py:19] (5, 'Luis', 'Córdova', 'astete@gmail.com')
+01:29:53 PM: DEBUG [menuApp.py:19] (10, 'Maria', 'Melgar', 'mama@gmail.com')
+01:29:53 PM: DEBUG [menuApp.py:19] (11, 'Rafaela', 'Aranda', 'rafita@gmail.com')
+01:29:53 PM: DEBUG [menuApp.py:19] (12, 'Mono', 'Aranda', 'mono77@gmail.com')
+01:29:53 PM: DEBUG [menuApp.py:19] (22, 'Carlos', 'Aranda', 'carlosaranda030801@gmail.com')
+01:29:53 PM: DEBUG [menuApp.py:19] (43, 'Luis', 'Luis', 'ghalia@gmail.com')
+01:29:53 PM: DEBUG [menuApp.py:19] (44, 'Gabriel', 'Gabriel', 'vichy@gmail.com')
+01:32:47 PM: DEBUG [cursorPool.py:10] Inicio del metodo __Enter__ With
+01:32:47 PM: DEBUG [cursorPool.py:16] Se ejecuta metodo exit
+01:32:47 PM: DEBUG [cursorPool.py:22] Commit de la transaccion
+01:32:47 PM: INFO [menuApp.py:19] (1, 'Daniela', 'Aranda', 'gordita@gmail.com')
+01:32:47 PM: INFO [menuApp.py:19] (4, 'Jesus', 'Melgar', 'jecho26@gmail.com')
+01:32:47 PM: INFO [menuApp.py:19] (5, 'Luis', 'Córdova', 'astete@gmail.com')
+01:32:47 PM: INFO [menuApp.py:19] (10, 'Maria', 'Melgar', 'mama@gmail.com')
+01:32:47 PM: INFO [menuApp.py:19] (11, 'Rafaela', 'Aranda', 'rafita@gmail.com')
+01:32:47 PM: INFO [menuApp.py:19] (12, 'Mono', 'Aranda', 'mono77@gmail.com')
+01:32:47 PM: INFO [menuApp.py:19] (22, 'Carlos', 'Aranda', 'carlosaranda030801@gmail.com')
+01:32:47 PM: INFO [menuApp.py:19] (43, 'Luis', 'Luis', 'ghalia@gmail.com')
+01:32:47 PM: INFO [menuApp.py:19] (44, 'Gabriel', 'Gabriel', 'vichy@gmail.com')
+01:33:14 PM: INFO [menuApp.py:19] (1, 'Daniela', 'Aranda', 'gordita@gmail.com')
+01:33:14 PM: INFO [menuApp.py:19] (4, 'Jesus', 'Melgar', 'jecho26@gmail.com')
+01:33:14 PM: INFO [menuApp.py:19] (5, 'Luis', 'Córdova', 'astete@gmail.com')
+01:33:14 PM: INFO [menuApp.py:19] (10, 'Maria', 'Melgar', 'mama@gmail.com')
+01:33:14 PM: INFO [menuApp.py:19] (11, 'Rafaela', 'Aranda', 'rafita@gmail.com')
+01:33:14 PM: INFO [menuApp.py:19] (12, 'Mono', 'Aranda', 'mono77@gmail.com')
+01:33:14 PM: INFO [menuApp.py:19] (22, 'Carlos', 'Aranda', 'carlosaranda030801@gmail.com')
+01:33:14 PM: INFO [menuApp.py:19] (43, 'Luis', 'Luis', 'ghalia@gmail.com')
+01:33:14 PM: INFO [menuApp.py:19] (44, 'Gabriel', 'Gabriel', 'vichy@gmail.com')
+01:42:56 PM: INFO [menuApp.py:19] (1, 'Daniela', 'Aranda', 'gordita@gmail.com')
+01:42:56 PM: INFO [menuApp.py:19] (4, 'Jesus', 'Melgar', 'jecho26@gmail.com')
+01:42:56 PM: INFO [menuApp.py:19] (5, 'Luis', 'Córdova', 'astete@gmail.com')
+01:42:56 PM: INFO [menuApp.py:19] (10, 'Maria', 'Melgar', 'mama@gmail.com')
+01:42:56 PM: INFO [menuApp.py:19] (11, 'Rafaela', 'Aranda', 'rafita@gmail.com')
+01:42:56 PM: INFO [menuApp.py:19] (12, 'Mono', 'Aranda', 'mono77@gmail.com')
+01:42:56 PM: INFO [menuApp.py:19] (22, 'Carlos', 'Aranda', 'carlosaranda030801@gmail.com')
+01:42:56 PM: INFO [menuApp.py:19] (43, 'Luis', 'Luis', 'ghalia@gmail.com')
+01:42:56 PM: INFO [menuApp.py:19] (44, 'Gabriel', 'Gabriel', 'vichy@gmail.com')
+01:42:59 PM: INFO [menuApp.py:19] (1, 'Daniela', 'Aranda', 'gordita@gmail.com')
+01:42:59 PM: INFO [menuApp.py:19] (4, 'Jesus', 'Melgar', 'jecho26@gmail.com')
+01:42:59 PM: INFO [menuApp.py:19] (5, 'Luis', 'Córdova', 'astete@gmail.com')
+01:42:59 PM: INFO [menuApp.py:19] (10, 'Maria', 'Melgar', 'mama@gmail.com')
+01:42:59 PM: INFO [menuApp.py:19] (11, 'Rafaela', 'Aranda', 'rafita@gmail.com')
+01:42:59 PM: INFO [menuApp.py:19] (12, 'Mono', 'Aranda', 'mono77@gmail.com')
+01:42:59 PM: INFO [menuApp.py:19] (22, 'Carlos', 'Aranda', 'carlosaranda030801@gmail.com')
+01:42:59 PM: INFO [menuApp.py:19] (43, 'Luis', 'Luis', 'ghalia@gmail.com')
+01:42:59 PM: INFO [menuApp.py:19] (44, 'Gabriel', 'Gabriel', 'vichy@gmail.com')
+03:15:00 PM: INFO [menuApp.py:21] (1, 'Daniela', 'Aranda', 'gordita@gmail.com')
+03:15:00 PM: INFO [menuApp.py:21] (4, 'Jesus', 'Melgar', 'jecho26@gmail.com')
+03:15:00 PM: INFO [menuApp.py:21] (5, 'Luis', 'Córdova', 'astete@gmail.com')
+03:15:00 PM: INFO [menuApp.py:21] (10, 'Maria', 'Melgar', 'mama@gmail.com')
+03:15:00 PM: INFO [menuApp.py:21] (11, 'Rafaela', 'Aranda', 'rafita@gmail.com')
+03:15:00 PM: INFO [menuApp.py:21] (12, 'Mono', 'Aranda', 'mono77@gmail.com')
+03:15:00 PM: INFO [menuApp.py:21] (22, 'Carlos', 'Aranda', 'carlosaranda030801@gmail.com')
+03:15:00 PM: INFO [menuApp.py:21] (43, 'Luis', 'Luis', 'ghalia@gmail.com')
+03:15:00 PM: INFO [menuApp.py:21] (44, 'Gabriel', 'Gabriel', 'vichy@gmail.com')
+03:15:00 PM: INFO [menuApp.py:21] (45, 'Trufa', 'Zanahoria', 'srTrufa@gmail.com')
+04:34:55 PM: INFO [menuApp.py:21] (1, 'Daniela', 'Aranda', 'gordita@gmail.com')
+04:34:55 PM: INFO [menuApp.py:21] (4, 'Jesus', 'Melgar', 'jecho26@gmail.com')
+04:34:55 PM: INFO [menuApp.py:21] (5, 'Luis', 'Córdova', 'astete@gmail.com')
+04:34:55 PM: INFO [menuApp.py:21] (10, 'Maria', 'Melgar', 'mama@gmail.com')
+04:34:55 PM: INFO [menuApp.py:21] (11, 'Rafaela', 'Aranda', 'rafita@gmail.com')
+04:34:55 PM: INFO [menuApp.py:21] (12, 'Mono', 'Aranda', 'mono77@gmail.com')
+04:34:55 PM: INFO [menuApp.py:21] (22, 'Carlos', 'Aranda', 'carlosaranda030801@gmail.com')
+04:34:55 PM: INFO [menuApp.py:21] (43, 'Luis', 'Luis', 'ghalia@gmail.com')
+04:34:55 PM: INFO [menuApp.py:21] (44, 'Gabriel', 'Gabriel', 'vichy@gmail.com')
+04:34:55 PM: INFO [menuApp.py:21] (45, 'Trufa', 'Zanahoria', 'srTrufa@gmail.com')
+04:37:10 PM: INFO [cursorPool.py:19] Ocurrio una exepcion: 'Persona' object has no attribute 'idPersona'
+04:41:11 PM: INFO [cursorPool.py:19] Ocurrio una exepcion: 'Persona' object has no attribute 'id_Persona'
+04:41:51 PM: INFO [cursorPool.py:19] Ocurrio una exepcion: syntax error at or near "INTO"
+LINE 1: UPDATE INTO "Persona" SET "Nombre"='Gabriel', "Apellido"='Vi...
+               ^
+
+04:47:38 PM: INFO [cursorPool.py:19] Ocurrio una exepcion: syntax error at or near "INTO"
+LINE 1: UPDATE INTO "Persona" SET "Nombre"='Gabriel', "Apellido"='Vi...
+               ^
+
+05:40:23 PM: INFO [cursorPool.py:19] Ocurrio una exepcion: syntax error at or near "INTO"
+LINE 1: UPDATE INTO "Persona" SET "Nombre"='g', "Apellido"='f', "Cor...
+               ^
+
+05:53:25 PM: INFO [cursorPool.py:19] Ocurrio una exepcion: syntax error at or near "INTO"
+LINE 1: UPDATE INTO "Persona" SET "Nombre"=45, "Apellido"='g', "Corr...
+               ^
+
+06:00:56 PM: INFO [menuApp.py:21] (1, 'Daniela', 'Aranda', 'gordita@gmail.com')
+06:00:56 PM: INFO [menuApp.py:21] (4, 'Jesus', 'Melgar', 'jecho26@gmail.com')
+06:00:56 PM: INFO [menuApp.py:21] (5, 'Luis', 'Córdova', 'astete@gmail.com')
+06:00:56 PM: INFO [menuApp.py:21] (10, 'Maria', 'Melgar', 'mama@gmail.com')
+06:00:56 PM: INFO [menuApp.py:21] (11, 'Rafaela', 'Aranda', 'rafita@gmail.com')
+06:00:56 PM: INFO [menuApp.py:21] (12, 'Mono', 'Aranda', 'mono77@gmail.com')
+06:00:56 PM: INFO [menuApp.py:21] (22, 'Carlos', 'Aranda', 'carlosaranda030801@gmail.com')
+06:00:56 PM: INFO [menuApp.py:21] (43, 'Luis', 'Luis', 'ghalia@gmail.com')
+06:00:56 PM: INFO [menuApp.py:21] (44, 'Gabriel', 'Gabriel', 'vichy@gmail.com')
+06:00:56 PM: INFO [menuApp.py:21] (45, 'Gabriel', 'Vichy', 'vichy@gmail.com')
+06:01:43 PM: INFO [menuApp.py:21] (1, 'Daniela', 'Aranda', 'gordita@gmail.com')
+06:01:43 PM: INFO [menuApp.py:21] (4, 'Jesus', 'Melgar', 'jecho26@gmail.com')
+06:01:43 PM: INFO [menuApp.py:21] (5, 'Luis', 'Córdova', 'astete@gmail.com')
+06:01:43 PM: INFO [menuApp.py:21] (10, 'Maria', 'Melgar', 'mama@gmail.com')
+06:01:43 PM: INFO [menuApp.py:21] (11, 'Rafaela', 'Aranda', 'rafita@gmail.com')
+06:01:43 PM: INFO [menuApp.py:21] (12, 'Mono', 'Aranda', 'mono77@gmail.com')
+06:01:43 PM: INFO [menuApp.py:21] (22, 'Carlos', 'Aranda', 'carlosaranda030801@gmail.com')
+06:01:43 PM: INFO [menuApp.py:21] (43, 'Luis', 'Luis', 'ghalia@gmail.com')
+06:01:43 PM: INFO [menuApp.py:21] (44, 'Trufa', 'srTrufa', 'srTrufa@gmail.com')
+06:01:43 PM: INFO [menuApp.py:21] (45, 'Gabriel', 'Vichy', 'vichy@gmail.com')
+06:24:46 PM: INFO [menuApp.py:22] (1, 'Daniela', 'Aranda', 'gordita@gmail.com')
+06:24:46 PM: INFO [menuApp.py:22] (4, 'Jesus', 'Melgar', 'jecho26@gmail.com')
+06:24:46 PM: INFO [menuApp.py:22] (5, 'Luis', 'Córdova', 'astete@gmail.com')
+06:24:46 PM: INFO [menuApp.py:22] (10, 'Maria', 'Melgar', 'mama@gmail.com')
+06:24:46 PM: INFO [menuApp.py:22] (11, 'Rafaela', 'Aranda', 'rafita@gmail.com')
+06:24:46 PM: INFO [menuApp.py:22] (12, 'Mono', 'Aranda', 'mono77@gmail.com')
+06:24:46 PM: INFO [menuApp.py:22] (22, 'Carlos', 'Aranda', 'carlosaranda030801@gmail.com')
+06:24:46 PM: INFO [menuApp.py:22] (43, 'Luis', 'Luis', 'ghalia@gmail.com')
+06:24:46 PM: INFO [menuApp.py:22] (44, 'Trufa', 'srTrufa', 'srTrufa@gmail.com')
+06:24:46 PM: INFO [menuApp.py:22] (45, 'Gabriel', 'Vichy', 'vichy@gmail.com')
+06:25:18 PM: INFO [menuApp.py:22] (1, 'Daniela', 'Aranda', 'gordita@gmail.com')
+06:25:18 PM: INFO [menuApp.py:22] (4, 'Jesus', 'Melgar', 'jecho26@gmail.com')
+06:25:18 PM: INFO [menuApp.py:22] (5, 'Luis', 'Córdova', 'astete@gmail.com')
+06:25:18 PM: INFO [menuApp.py:22] (10, 'Maria', 'Melgar', 'mama@gmail.com')
+06:25:18 PM: INFO [menuApp.py:22] (11, 'Rafaela', 'Aranda', 'rafita@gmail.com')
+06:25:18 PM: INFO [menuApp.py:22] (12, 'Mono', 'Aranda', 'mono77@gmail.com')
+06:25:18 PM: INFO [menuApp.py:22] (22, 'Carlos', 'Aranda', 'carlosaranda030801@gmail.com')
+06:25:18 PM: INFO [menuApp.py:22] (43, 'Luis', 'Luis', 'ghalia@gmail.com')
+06:25:18 PM: INFO [menuApp.py:22] (44, 'Trufa', 'srTrufa', 'srTrufa@gmail.com')
+06:25:18 PM: INFO [menuApp.py:22] (45, 'Gabriel', 'Vichy', 'vichy@gmail.com')
+06:25:36 PM: INFO [menuApp.py:22] (1, 'Daniela', 'Aranda', 'gordita@gmail.com')
+06:25:36 PM: INFO [menuApp.py:22] (4, 'Jesus', 'Melgar', 'jecho26@gmail.com')
+06:25:36 PM: INFO [menuApp.py:22] (5, 'Luis', 'Córdova', 'astete@gmail.com')
+06:25:36 PM: INFO [menuApp.py:22] (10, 'Maria', 'Melgar', 'mama@gmail.com')
+06:25:36 PM: INFO [menuApp.py:22] (11, 'Rafaela', 'Aranda', 'rafita@gmail.com')
+06:25:36 PM: INFO [menuApp.py:22] (12, 'Mono', 'Aranda', 'mono77@gmail.com')
+06:25:36 PM: INFO [menuApp.py:22] (22, 'Carlos', 'Aranda', 'carlosaranda030801@gmail.com')
+06:25:36 PM: INFO [menuApp.py:22] (43, 'Luis', 'Luis', 'ghalia@gmail.com')
+06:25:36 PM: INFO [menuApp.py:22] (44, 'Trufa', 'srTrufa', 'srTrufa@gmail.com')
+06:25:36 PM: INFO [menuApp.py:22] (45, 'Gabriel', 'Vichy', 'vichy@gmail.com')
+06:27:07 PM: INFO [menuApp.py:22] (1, 'Daniela', 'Aranda', 'gordita@gmail.com')
+06:27:07 PM: INFO [menuApp.py:22] (4, 'Jesus', 'Melgar', 'jecho26@gmail.com')
+06:27:07 PM: INFO [menuApp.py:22] (5, 'Luis', 'Córdova', 'astete@gmail.com')
+06:27:07 PM: INFO [menuApp.py:22] (10, 'Maria', 'Melgar', 'mama@gmail.com')
+06:27:07 PM: INFO [menuApp.py:22] (11, 'Rafaela', 'Aranda', 'rafita@gmail.com')
+06:27:07 PM: INFO [menuApp.py:22] (12, 'Mono', 'Aranda', 'mono77@gmail.com')
+06:27:07 PM: INFO [menuApp.py:22] (22, 'Carlos', 'Aranda', 'carlosaranda030801@gmail.com')
+06:27:07 PM: INFO [menuApp.py:22] (43, 'Luis', 'Luis', 'ghalia@gmail.com')
+06:27:07 PM: INFO [menuApp.py:22] (44, 'Trufa', 'srTrufa', 'srTrufa@gmail.com')
+06:27:07 PM: INFO [menuApp.py:22] (45, 'Gabriel', 'Vichy', 'vichy@gmail.com')
+06:27:13 PM: INFO [cursorPool.py:19] Ocurrio una exepcion: 'Persona' object has no attribute 'idPersona'
+06:27:44 PM: INFO [menuApp.py:22] (1, 'Daniela', 'Aranda', 'gordita@gmail.com')
+06:27:44 PM: INFO [menuApp.py:22] (4, 'Jesus', 'Melgar', 'jecho26@gmail.com')
+06:27:44 PM: INFO [menuApp.py:22] (5, 'Luis', 'Córdova', 'astete@gmail.com')
+06:27:44 PM: INFO [menuApp.py:22] (10, 'Maria', 'Melgar', 'mama@gmail.com')
+06:27:44 PM: INFO [menuApp.py:22] (11, 'Rafaela', 'Aranda', 'rafita@gmail.com')
+06:27:44 PM: INFO [menuApp.py:22] (12, 'Mono', 'Aranda', 'mono77@gmail.com')
+06:27:44 PM: INFO [menuApp.py:22] (22, 'Carlos', 'Aranda', 'carlosaranda030801@gmail.com')
+06:27:44 PM: INFO [menuApp.py:22] (43, 'Luis', 'Luis', 'ghalia@gmail.com')
+06:27:44 PM: INFO [menuApp.py:22] (44, 'Trufa', 'srTrufa', 'srTrufa@gmail.com')
+06:27:44 PM: INFO [menuApp.py:22] (45, 'Gabriel', 'Vichy', 'vichy@gmail.com')
+06:27:50 PM: INFO [menuApp.py:22] (1, 'Daniela', 'Aranda', 'gordita@gmail.com')
+06:27:50 PM: INFO [menuApp.py:22] (4, 'Jesus', 'Melgar', 'jecho26@gmail.com')
+06:27:50 PM: INFO [menuApp.py:22] (5, 'Luis', 'Córdova', 'astete@gmail.com')
+06:27:50 PM: INFO [menuApp.py:22] (10, 'Maria', 'Melgar', 'mama@gmail.com')
+06:27:50 PM: INFO [menuApp.py:22] (11, 'Rafaela', 'Aranda', 'rafita@gmail.com')
+06:27:50 PM: INFO [menuApp.py:22] (12, 'Mono', 'Aranda', 'mono77@gmail.com')
+06:27:50 PM: INFO [menuApp.py:22] (22, 'Carlos', 'Aranda', 'carlosaranda030801@gmail.com')
+06:27:50 PM: INFO [menuApp.py:22] (44, 'Trufa', 'srTrufa', 'srTrufa@gmail.com')
+06:27:50 PM: INFO [menuApp.py:22] (45, 'Gabriel', 'Vichy', 'vichy@gmail.com')
+06:28:06 PM: INFO [menuApp.py:22] (1, 'Daniela', 'Aranda', 'gordita@gmail.com')
+06:28:06 PM: INFO [menuApp.py:22] (4, 'Jesus', 'Melgar', 'jecho26@gmail.com')
+06:28:06 PM: INFO [menuApp.py:22] (5, 'Luis', 'Córdova', 'astete@gmail.com')
+06:28:06 PM: INFO [menuApp.py:22] (10, 'Maria', 'Melgar', 'mama@gmail.com')
+06:28:06 PM: INFO [menuApp.py:22] (11, 'Rafaela', 'Aranda', 'rafita@gmail.com')
+06:28:06 PM: INFO [menuApp.py:22] (12, 'Mono', 'Aranda', 'mono77@gmail.com')
+06:28:06 PM: INFO [menuApp.py:22] (22, 'Carlos', 'Aranda', 'carlosaranda030801@gmail.com')
+06:28:06 PM: INFO [menuApp.py:22] (44, 'Trufa', 'srTrufa', 'srTrufa@gmail.com')
+06:32:18 PM: INFO [menuApp.py:23] (1, 'Daniela', 'Aranda', 'gordita@gmail.com')
+06:32:18 PM: INFO [menuApp.py:23] (4, 'Jesus', 'Melgar', 'jecho26@gmail.com')
+06:32:18 PM: INFO [menuApp.py:23] (5, 'Luis', 'Córdova', 'astete@gmail.com')
+06:32:18 PM: INFO [menuApp.py:23] (10, 'Maria', 'Melgar', 'mama@gmail.com')
+06:32:18 PM: INFO [menuApp.py:23] (11, 'Rafaela', 'Aranda', 'rafita@gmail.com')
+06:32:18 PM: INFO [menuApp.py:23] (12, 'Mono', 'Aranda', 'mono77@gmail.com')
+06:32:18 PM: INFO [menuApp.py:23] (22, 'Carlos', 'Aranda', 'carlosaranda030801@gmail.com')
+06:32:18 PM: INFO [menuApp.py:23] (44, 'Trufa', 'srTrufa', 'srTrufa@gmail.com')
+06:33:05 PM: INFO [menuApp.py:23] (1, 'Daniela', 'Aranda', 'gordita@gmail.com')
+06:33:05 PM: INFO [menuApp.py:23] (4, 'Jesus', 'Melgar', 'jecho26@gmail.com')
+06:33:05 PM: INFO [menuApp.py:23] (5, 'Luis', 'Córdova', 'astete@gmail.com')
+06:33:05 PM: INFO [menuApp.py:23] (10, 'Maria', 'Melgar', 'mama@gmail.com')
+06:33:05 PM: INFO [menuApp.py:23] (11, 'Rafaela', 'Aranda', 'rafita@gmail.com')
+06:33:05 PM: INFO [menuApp.py:23] (12, 'Mono', 'Aranda', 'mono77@gmail.com')
+06:33:05 PM: INFO [menuApp.py:23] (22, 'Carlos', 'Aranda', 'carlosaranda030801@gmail.com')
+06:35:14 PM: INFO [menuApp.py:22] (1, 'Daniela', 'Aranda', 'gordita@gmail.com')
+06:35:14 PM: INFO [menuApp.py:22] (4, 'Jesus', 'Melgar', 'jecho26@gmail.com')
+06:35:14 PM: INFO [menuApp.py:22] (5, 'Luis', 'Córdova', 'astete@gmail.com')
+06:35:14 PM: INFO [menuApp.py:22] (10, 'Maria', 'Melgar', 'mama@gmail.com')
+06:35:14 PM: INFO [menuApp.py:22] (11, 'Rafaela', 'Aranda', 'rafita@gmail.com')
+06:35:14 PM: INFO [menuApp.py:22] (12, 'Mono', 'Aranda', 'mono77@gmail.com')
+06:35:14 PM: INFO [menuApp.py:22] (22, 'Carlos', 'Aranda', 'carlosaranda030801@gmail.com')
